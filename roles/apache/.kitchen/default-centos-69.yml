@@ -1,0 +1,9 @@
+---
+username: kitchen
+hostname: localhost
+ssh_key: "/root/apache-configuration-ci/roles/apache/.kitchen/docker_id_rsa"
+image_id: 5647582062a1
+container_id: b75adfc283fe1976d05888c30f49498e97ad7303610460febcc03a86e7357baf
+port: 32768
+last_action: converge
+last_error: 
